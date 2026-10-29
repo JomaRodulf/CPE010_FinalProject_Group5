@@ -1,12 +1,17 @@
 # CPE010_FinalProject_Group5
-Team Members:
+## Team Members:
 
-Domingo, Rodney C.
+### Domingo, Rodney C.
 
-Reyes, Fenzie Aaron A.
+### Reyes, Fenzie Aaron A.
 
-Rodulfa, Jose Martin C.
+### Rodulfa, Jose Martin C.
 
-Santiago, Niña Denise M.
+### Santiago, Niña Denise M.
 
-Vizcayno, Ellaiza C.
+### Vizcayno, Ellaiza C.
+## -------------------------------------------------------------------------
+## Project: Centralized Pharmacy System for Inventory and Allocation
+
+### This project is a group effort in implementing several Data Structures and Algorithms for solving  
+### 
