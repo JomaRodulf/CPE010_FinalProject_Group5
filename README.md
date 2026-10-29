@@ -14,4 +14,5 @@
 ## Project: Centralized Pharmacy System for Inventory and Allocation
 
 ### This project is a group effort in implementing several Data Structures and Algorithms for solving  
+### real-world, business-minded problems that the team found important.  
 ### 
